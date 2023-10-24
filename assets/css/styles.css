@@ -5,8 +5,7 @@
 }
 
 body {
-    background: url("./bg.jpg");
-    background-size: 1500px 1000px;
+    background: #e27442;
     overflow-y: auto;
 }
 
@@ -182,7 +181,7 @@ body {
     position: relative;
     width: 50px;
     height: 60px;
-    background: radial-gradient( circle at 10% 20%, rgb(68, 1, 1) 0%, rgb(205, 204, 204) 90.2%);
+    background-color: #FFFFFA;
     text-align: center;
     font-family: Oswald, sans-serif;
     font-size: 10pt;
